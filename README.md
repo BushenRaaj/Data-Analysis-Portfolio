@@ -74,9 +74,7 @@ Analyze employee attrition patterns using HR data to identify key factors influe
 - [**WA_Fn-UseC_-HR-Employee-Attrition.csv**](WA_Fn-UseC_-HR-Employee-Attrition.csv) | Raw dataset containing employee demographic, job, and satisfaction details. 
 - [**Cleaned_HR_Attrition.xlsx**](Cleaned_HR_Attrition.xlsx) | Cleaned and processed dataset generated using Python. 
 - [**Cleaning_Dataset.ipynb**](Cleaning_Dataset.ipynb) | Jupyter Notebook used for data cleaning and preprocessing. 
-- [**HR_Attrition_Data_Sheet.pbix**](HR_Attrition_Data_Sheet.pbix) | Power BI dashboard file for visual analytics. 
-- [**HR Attrition Data Analysis Project Report.pdf**](HR%20Attrition%20Data%20Analysis%20Project%20Report.pdf) | Final project report summarizing methodology and results. 
-- [**README.md**](README.md) | Project documentation and instructions. 
+- [**HR_Attrition_Data_Sheet.pbix**](HR_Attrition_Data_Sheet.pbix) | Power BI dashboard file for visual analytics.  
 
 ---
 
@@ -157,10 +155,7 @@ Used **KPI cards** and **trend lines** for easy performance tracking.
 - [**Train.csv**](Train.csv) | Raw dataset containing e-commerce delivery details including shipment mode, warehouse block, product cost, discount, and customer ratings.  
 - [**Cleaned_Train_File.xls**](Cleaned_Train_File.xls) | Cleaned and processed dataset generated using Python (Jupyter Notebook).  
 - [**E-commerce.ipynb**](E-commerce.ipynb) | Jupyter Notebook used for data cleaning, preprocessing, and feature engineering.  
-- [**E-Commerce Delivery Performance.pbix**](E-Commerce%20Delivery%20Performance.pbix) | Power BI dashboard file for interactive visual analytics.  
-- [**E_Commerce_Delivery_Performance_Project_Report.pdf**](E_Commerce_Delivery_Performance_Project_Report.pdf) | Final professional project report summarizing methodology, tools, and insights.  
-- [**README.md**](README.md) | Project documentation, workflow summary, and usage instructions.  
-
+- [**E-Commerce Delivery Performance.pbix**](E-Commerce%20Delivery%20Performance.pbix) | Power BI dashboard file for interactive visual analytics.
 
 ---
 
