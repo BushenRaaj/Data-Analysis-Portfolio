@@ -87,7 +87,6 @@ Evaluate delivery efficiency and customer satisfaction through e-commerce data a
 | `Train.csv` | Raw dataset containing e-commerce order details |
 | `Cleaned_Train_File.xls` | Cleaned dataset after preprocessing in Python |
 | `E-commerce.ipynb` | Jupyter Notebook used for data cleaning and transformation |
-| `ecomus sheet.xlsx` | Transformed dataset post Power Query |
 | `E-Commerce Delivery Performance.pbix` | Power BI dashboard file |
 
 ---
@@ -153,7 +152,7 @@ Used **KPI cards** and **trend lines** for easy performance tracking.
 ## 📂 Repository Structure
 
 - [**Train.csv**](Train.csv) | Raw dataset containing e-commerce delivery details including shipment mode, warehouse block, product cost, discount, and customer ratings.  
-- [**Cleaned_Train_File.xls**](Cleaned_Train_File.xls) | Cleaned and processed dataset generated using Python (Jupyter Notebook).  
+- [**Cleaned_Train_File.xlsx**](Cleaned_Train_File.xlsx) | Cleaned and processed dataset generated using Python (Jupyter Notebook).  
 - [**E-commerce.ipynb**](E-commerce.ipynb) | Jupyter Notebook used for data cleaning, preprocessing, and feature engineering.  
 - [**E-Commerce Delivery Performance.pbix**](E-Commerce%20Delivery%20Performance.pbix) | Power BI dashboard file for interactive visual analytics.
 
